@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <!--Button-->
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+<!--    Card-->
+<!--    Black Square-->
+    <string name="black_square">Black Square</string>
+    <string name="black_square_author">Kazimir Malevich (1915)</string>
+
+<!--    The Scream-->
+    <string name="the_scream">The Scream</string>
+    <string name="the_scream_author">Edvard Munch (1893)</string>
+
+<!--    Mona_Liza-->
+    <string name="mona_liza">Mona Liza</string>
+    <string name="mona_liza_author">Leonardo da Vinci (1503-1519)</string>
+
+<!--    The last supper-->
+    <string name="the_last_supper">The Last Supper</string>
+    <string name="the_last_supper_author">Leonardo da Vinci (1495-1498)</string>
+</resources>
